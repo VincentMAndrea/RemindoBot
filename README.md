@@ -16,6 +16,6 @@ In an Azure resource group, create a new function app. Create an `Orchestrator`,
 - go to `Server Settings > Webhooks > Create Webhook` and add it to the ActivityTrigger from earlier.
 - get the connection string for your HttpTrigger function and place it in the `commands/remind.js` axios call.
 
-# Finished
+# Tests
 
 Test out the bot by using the command `!remind`, ex. `!remind @User to take out the trash in 1 minute`.
