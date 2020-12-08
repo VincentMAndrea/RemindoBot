@@ -1,5 +1,5 @@
 # RemindoBot
-A Discord bot that leverages Durable Functions to send reminders to users.
+A Discord bot that uses Azure Functions to send reminders to users.
 
 # Prerequisites
 - Node.js - https://nodejs.org/en/
