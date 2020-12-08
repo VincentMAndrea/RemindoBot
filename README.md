@@ -14,7 +14,7 @@ In an Azure resource group, create a new function app. Create an `Orchestrator`,
 - add the bot's token to `index.js` in `/discordbot`
 - add the bot to your server - https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links
 - go to `Server Settings > Webhooks > Create Webhook` and add it to the ActivityTrigger from earlier.
-- get the connection string for your HttpTrigger function and place it in the `remind.js` axios call.
+- get the connection string for your HttpTrigger function and place it in the `commands/remind.js` axios call.
 
 # Finished
 
